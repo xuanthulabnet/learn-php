@@ -1,0 +1,16 @@
+##### Composer
+composer.phar
+/vendor/
+
+composer.lock
+##### SASS
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+##### Gradle
+.gradle
+**/build/
+!src/**/build/
+
+.DS_Store
